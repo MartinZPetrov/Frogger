@@ -1,0 +1,9 @@
+D:\MZP\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.exe.config
+D:\MZP\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.exe
+D:\MZP\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.pdb
+D:\MZP\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.csprojResolveAssemblyReference.cache
+D:\MZP\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.exe
+D:\MZP\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.pdb
+D:\GitHub\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.exe.config
+D:\GitHub\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.exe
+D:\GitHub\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.pdb

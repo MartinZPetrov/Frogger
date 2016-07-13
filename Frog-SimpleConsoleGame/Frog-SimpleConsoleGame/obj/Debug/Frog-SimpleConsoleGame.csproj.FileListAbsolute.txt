@@ -1,0 +1,6 @@
+E:\Telerik C#\Second Course\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.exe.config
+E:\Telerik C#\Second Course\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.exe
+E:\Telerik C#\Second Course\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\bin\Debug\Frog-SimpleConsoleGame.pdb
+E:\Telerik C#\Second Course\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.csprojResolveAssemblyReference.cache
+E:\Telerik C#\Second Course\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.exe
+E:\Telerik C#\Second Course\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\Frog-SimpleConsoleGame\obj\Debug\Frog-SimpleConsoleGame.pdb
